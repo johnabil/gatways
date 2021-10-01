@@ -1,0 +1,18 @@
+{
+    "name": "john/gatways",
+    "description": "musala soft interviews",
+    "type": "metapackage",
+    "autoload": {
+        "psr-4": {
+            "John\\Gatways\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "John Nabil",
+            "email": "johnnabil85@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
